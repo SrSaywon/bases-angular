@@ -18,3 +18,5 @@ Pour lancer un projet angular récupéré sur le net (sans le node_modules):
 Installer les dépendances:npm i / npm install
 
 Démarrer le projet: npm start 
+
+créer un component : ng g c <nom du component>
