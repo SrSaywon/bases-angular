@@ -19,4 +19,4 @@ Installer les dépendances:npm i / npm install
 
 Démarrer le projet: npm start 
 
-créer un component : ng g c <nomducomponent>
+créer un component : ng g c nomducomponent
